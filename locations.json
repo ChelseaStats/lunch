@@ -1,25 +1,29 @@
-"locations" : "[
-"Sandwich Box",
-"Wolfies",
-"Lime Tree",
-"Munchies",
-"Bar and Wok",
-"KFC",
-"Yo Sushi",
-"Greggs",
-"burger star",
-"farmhouse",
-"Waitrose",
-"Pasty shop",
-"Boots",
-"Papparito's",
-"Charlies chippy",
-"Prezzo",
-"Pizza Express",
-"Swallow Bakery",
-"Bayshill",
-"Gridiron",
-"Sainsbury's",
-"Tesco",
-"McDonald's"
-      ]";
+{
+  "Locations": [
+        {
+            "Sandwich Box": "0",
+            "Wolfies": "0",
+            "Lime Tree": "0",
+            "Munchies": "0",
+            "Bar and Wok": "0",
+            "KFC": "0",
+            "Yo Sushi": "0",
+            "Greggs": "0",
+            "burger star": "0",
+            "farmhouse": "0",
+            "Waitrose": "0",
+            "Pasty shop": "0",
+            "Boots": "0",
+            "Papparito's": "0",
+            "Charlies chippy": "0",
+            "Prezzo": "0",
+            "Pizza Express": "0",
+            "Swallow Bakery": "0",
+            "Bayshill": "0",
+            "Gridiron": "0",
+            "Sainsbury's": "0",
+            "Tesco": "0",
+            "McDonald's": "0"
+        }
+   ]
+}
