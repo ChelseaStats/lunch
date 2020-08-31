@@ -44,4 +44,4 @@ if __name__ == "__main__":
 
     print (data_item_text)
 
-    api.update_status(status = "#CheltenhamLunchBot Today's lunchtime venue is " + data_item_text)     
+    api.update_status(status = "#Cheltenham #LunchBot Today's lunchtime venue is " + data_item_text)     

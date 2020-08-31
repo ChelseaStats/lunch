@@ -2,7 +2,7 @@ __Where to go for lunch__
 
 A website to help decide lunch choices in Cheltenham.
 
-Today's choice is...
+Today's lunchtime venue is...
 
 ---
 
