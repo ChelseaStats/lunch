@@ -2,11 +2,13 @@ __Where to go for lunch__
 
 A website to help decide lunch choices in Cheltenham.
 
+Today's choice is...
+
 ---
 
 <!-- lunch_item starts -->
 KFC
-<!-- lunch_ ends -->
+<!-- lunch_item ends -->
 
 ---
 
