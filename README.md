@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-KFC
+Wolfies
 <!-- lunch_item ends -->
 
 ---
