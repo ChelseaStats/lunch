@@ -1,4 +1,15 @@
-# lunch
-Where to go for lunch
+__Where to go for lunch__
 
-A website to help decide lunch choices and elsewhere an api for use in slack.
+A website to help decide lunch choices in Cheltenham.
+
+---
+
+<!-- lunch_item starts -->
+KFC
+<!-- lunch_ ends -->
+
+---
+
+Follow [kutf](https://twitter.com/kutf) on Twitter for daily updates.
+
+![Daily Build](https://github.com/MatBenfield/lunch.thechels.uk/workflows/Daily%20Build/badge.svg)
