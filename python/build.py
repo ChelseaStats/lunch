@@ -9,7 +9,7 @@ import tweepy
 # setup
 root = pathlib.Path(__file__).parent.parent.resolve()
 
-# secrets 
+# secrets
 consumer_key = os.getenv('c_key')
 consumer_secret = os.getenv('c_secret')
 access_token = os.getenv('a_token')
