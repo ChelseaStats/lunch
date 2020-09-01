@@ -2,7 +2,6 @@
 import os
 import re
 import csv
-import time
 import random
 import pathlib
 import tweepy
@@ -18,12 +17,12 @@ access_token_secret = os.getenv('a_secret')
 
 # functions
 def replace_chunk(content, marker, chunk):
-    r = re.compile(
+    replacer = re.compile(
         r"<!\-\- {} starts \-\->.*<!\-\- {} ends \-\->".format(marker, marker),
         re.DOTALL,
     )
     chunk = "<!-- {} starts -->\n{}\n<!-- {} ends -->".format(marker, chunk, marker)
-    return r.sub(chunk, content)
+    return replacer.sub(chunk, content)
 
 # authentication
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
@@ -32,9 +31,9 @@ api = tweepy.API(auth)
 
 # processing
 with open('data.csv') as csvfile:
- reader = csv.DictReader(csvfile)
- random_row = random.choice(list(reader))
- data_item_text = random_row['text']
+    reader = csv.DictReader(csvfile)
+    random_row = random.choice(list(reader))
+    data_item_text = random_row['text']
 
 if __name__ == "__main__":
     readme = root / "README.md"
@@ -44,4 +43,4 @@ if __name__ == "__main__":
 
     print (data_item_text)
 
-    api.update_status(status = "#Cheltenham #LunchBot Today's lunchtime venue is " + data_item_text)   
+    api.update_status(status = "#Cheltenham #LunchBot Today's lunchtime venue is " + data_item_text)
