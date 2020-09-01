@@ -1,4 +1,7 @@
  # importing modules
+"""
+ Build and Tweet
+"""
 import os
 import re
 import csv
