@@ -1,11 +1,11 @@
  # importing modules
-import tweepy
+import os
+import re
 import csv
 import time
 import random
 import pathlib
-import re
-import os
+import tweepy
 
 # setup
 root = pathlib.Path(__file__).parent.parent.resolve()
@@ -26,8 +26,8 @@ def replace_chunk(content, marker, chunk):
     return r.sub(chunk, content)
 
 # authentication
-auth = tweepy.OAuthHandler(consumer_key, consumer_secret) 
-auth.set_access_token(access_token, access_token_secret) 
+auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
 
 # processing
@@ -44,4 +44,4 @@ if __name__ == "__main__":
 
     print (data_item_text)
 
-    api.update_status(status = "#Cheltenham #LunchBot Today's lunchtime venue is " + data_item_text)     
+    api.update_status(status = "#Cheltenham #LunchBot Today's lunchtime venue is " + data_item_text)   
