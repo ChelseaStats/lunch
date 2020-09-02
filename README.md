@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-Kibou
+Sandwich Box
 <!-- lunch_item ends -->
 
 ---
