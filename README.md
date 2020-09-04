@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-Boots
+The Ivy
 <!-- lunch_item ends -->
 
 ---
