@@ -37,6 +37,7 @@ with open('data.csv') as csvfile:
     reader = csv.DictReader(csvfile)
     random_row = random.choice(list(reader))
     data_item_text = random_row['text']
+    output_text = "[" + data_item_text + "](https://www.google.com/maps/place/"+ data_item_text +"+Cheltenham/)"
 
 if __name__ == "__main__":
     readme = root / "README.md"
@@ -44,6 +45,6 @@ if __name__ == "__main__":
     rewritten = replace_chunk(readme_contents, "lunch_item", data_item_text)
     readme.open("w").write(rewritten)
 
-    print (data_item_text)
+    print (output_text)
 
-    api.update_status(status = "#Cheltenham #LunchBot Today's lunchtime venue is " + data_item_text)
+    api.update_status(status = "#Cheltenham #LunchBot Today's lunchtime venue is "+ data_item_text +", see lunch.thechels.uk for more info")
