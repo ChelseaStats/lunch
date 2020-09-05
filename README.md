@@ -9,7 +9,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-The Ivy
+Primavera Ristorante
 <!-- lunch_item ends -->
 
 ---
