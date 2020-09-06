@@ -9,7 +9,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-Primavera Ristorante
+Chikenzo
 <!-- lunch_item ends -->
 
 ---
