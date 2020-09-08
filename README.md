@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-Chelsea Brasserie
+Lumiere
 <!-- lunch_item ends -->
 
 ---
