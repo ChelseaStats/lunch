@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-Lumiere
+Primavera Ristorante
 <!-- lunch_item ends -->
 
 ---
