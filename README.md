@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-Primavera Ristorante
+Greggs
 <!-- lunch_item ends -->
 
 ---
