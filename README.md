@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-Greggs
+Wolfies
 <!-- lunch_item ends -->
 
 ---
