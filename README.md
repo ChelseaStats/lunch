@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-Wolfies
+Thai Emerald
 <!-- lunch_item ends -->
 
 ---
