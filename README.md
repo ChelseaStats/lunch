@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-Thai Emerald
+Brasserie Blanc
 <!-- lunch_item ends -->
 
 ---
