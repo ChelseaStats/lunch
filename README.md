@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-Brasserie Blanc
+Brewhouse and Kitchen
 <!-- lunch_item ends -->
 
 ---
