@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-Brewhouse and Kitchen
+Go Peri
 <!-- lunch_item ends -->
 
 ---
