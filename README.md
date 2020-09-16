@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-Go Peri
+Brasserie Blanc
 <!-- lunch_item ends -->
 
 ---
