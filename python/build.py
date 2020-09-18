@@ -42,7 +42,7 @@ with open('data.csv') as csvfile:
 if __name__ == "__main__":
     readme = root / "README.md"
     readme_contents = readme.open().read()
-    rewritten = replace_chunk(readme_contents, "lunch_item", data_item_text)
+    rewritten = replace_chunk(readme_contents, "lunch_item", output_text)
     readme.open("w").write(rewritten)
 
     print (output_text)
