@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-The BigFish
+[Farmhouse kitchen](https://www.google.com/maps/place/Farmhouse kitchen+Cheltenham/)
 <!-- lunch_item ends -->
 
 ---
