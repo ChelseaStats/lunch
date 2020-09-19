@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-[Farmhouse kitchen](https://www.google.com/maps/place/Farmhouse kitchen+Cheltenham/)
+[Fresh Crust](https://www.google.com/maps/place/Fresh Crust+Cheltenham/)
 <!-- lunch_item ends -->
 
 ---
