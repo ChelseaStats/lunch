@@ -8,6 +8,7 @@ import csv
 import random
 import pathlib
 import tweepy
+import urllib
 
 # setup
 root = pathlib.Path(__file__).parent.parent.resolve()
@@ -34,17 +35,24 @@ api = tweepy.API(auth)
 
 # processing
 with open('data.csv') as csvfile:
-    reader = csv.DictReader(csvfile)
-    random_row = random.choice(list(reader))
-    data_item_text = random_row['text']
-    output_text = f"[{data_item_text}](https://www.google.com/maps/place/{data_item_text}+Cheltenham/)"
+    reader          = csv.DictReader(csvfile)
+    random_row      = random.choice(list(reader))
+    data_item_text  = random_row['text']
+    url_safe_text   = urllib.parse.quote(data_item_text)
+    output_markdown = f"[{data_item_text}](https://www.google.com/maps/place/{url_safe_text}+Cheltenham/)"
+    output_html     = f'<a href="https://www.google.com/maps/place/{url_safe_text}+Cheltenham/)">{data_item_text}</a>'
 
 if __name__ == "__main__":
     readme = root / "README.md"
     readme_contents = readme.open().read()
-    rewritten = replace_chunk(readme_contents, "lunch_item", output_text)
-    readme.open("w").write(rewritten)
+    my_markdown = replace_chunk(readme_contents, "lunch_item", output_markdown)
+    readme.open("w").write(my_markdown)
 
-    print (output_text)
+    index = root / "index.html"
+    index_contents = index.open().read()
+    my_html = replace_chunk(index_contents, "lunch_item", output_html)
+    index.open("w").write(my_html)
+
+    print (data_item_text)
 
     api.update_status(status = f"#Cheltenham #LunchBot Today's lunchtime venue is {data_item_text}, see lunch.thechels.uk for more info")
