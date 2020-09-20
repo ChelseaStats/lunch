@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-[Fresh Crust](https://www.google.com/maps/place/Fresh Crust+Cheltenham/)
+[Brewhouse and Kitchen](https://www.google.com/maps/place/Brewhouse and Kitchen+Cheltenham/)
 <!-- lunch_item ends -->
 
 ---
