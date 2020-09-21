@@ -33,10 +33,11 @@ jobs:
       run: |-
         python 'python/build.py'
         cat README.md
+        cat index.html
     - name: Commit and push if files have changed
       run: |-
         git diff
-        git config --global user.email "readme-bot@example.com"
-        git config --global user.name "README-bot"
-        git diff --quiet || (git -a && git commit -m "Updated README")
+        git config --global user.email "File-Updater-bot@example.com"
+        git config --global user.name "File-Updater-Bot"
+        git diff --quiet || (git -a -m "Updated files")
         git push
