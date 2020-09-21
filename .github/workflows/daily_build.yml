@@ -38,5 +38,5 @@ jobs:
         git diff
         git config --global user.email "readme-bot@example.com"
         git config --global user.name "README-bot"
-        git diff --quiet || (git add index.html && add README.md && git commit -m "Updated README")
+        git diff --quiet || (git -a && git commit -m "Updated README")
         git push
