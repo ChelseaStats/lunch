@@ -39,5 +39,5 @@ jobs:
         git diff
         git config --global user.email "File-Updater-bot@example.com"
         git config --global user.name "File-Updater-Bot"
-        git diff --quiet || (git -a -m "Updated files")
+        git diff --quiet || (git commit -a -m "Updated files")
         git push
