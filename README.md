@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-[The Beehive](https://www.google.com/maps/place/The%20Beehive+Cheltenham/)
+[The Vine](https://www.google.com/maps/place/The%20Vine+Cheltenham/)
 <!-- lunch_item ends -->
 
 ---
