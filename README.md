@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-[Lumiere](https://www.google.com/maps/place/Lumiere+Cheltenham/)
+[Swallow Bakery](https://www.google.com/maps/place/Swallow%20Bakery+Cheltenham/)
 <!-- lunch_item ends -->
 
 ---
