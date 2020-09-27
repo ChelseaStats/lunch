@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-[Lumiere](https://www.google.com/maps/place/Lumiere+Cheltenham/)
+[Greggs](https://www.google.com/maps/place/Greggs+Cheltenham/)
 <!-- lunch_item ends -->
 
 ---
