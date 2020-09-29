@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-[Wakame](https://www.google.com/maps/place/Wakame+Cheltenham/)
+[The Fire Station](https://www.google.com/maps/place/The%20Fire%20Station+Cheltenham/)
 <!-- lunch_item ends -->
 
 ---
