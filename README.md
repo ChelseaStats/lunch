@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-[The Fire Station](https://www.google.com/maps/place/The%20Fire%20Station+Cheltenham/)
+[Papparito's](https://www.google.com/maps/place/Papparito%27s+Cheltenham/)
 <!-- lunch_item ends -->
 
 ---
