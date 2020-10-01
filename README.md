@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-[Papparito's](https://www.google.com/maps/place/Papparito%27s+Cheltenham/)
+[Chikenzo](https://www.google.com/maps/place/Chikenzo+Cheltenham/)
 <!-- lunch_item ends -->
 
 ---
