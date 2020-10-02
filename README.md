@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-[Chikenzo](https://www.google.com/maps/place/Chikenzo+Cheltenham/)
+[Greggs](https://www.google.com/maps/place/Greggs+Cheltenham/)
 <!-- lunch_item ends -->
 
 ---
