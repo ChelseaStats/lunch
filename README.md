@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-[Wakame](https://www.google.com/maps/place/Wakame+Cheltenham/)
+[Burger King](https://www.google.com/maps/place/Burger%20King+Cheltenham/)
 <!-- lunch_item ends -->
 
 ---
