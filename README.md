@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-[Burger King](https://www.google.com/maps/place/Burger%20King+Cheltenham/)
+[The Beehive](https://www.google.com/maps/place/The%20Beehive+Cheltenham/)
 <!-- lunch_item ends -->
 
 ---
