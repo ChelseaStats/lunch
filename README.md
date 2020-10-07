@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-[The Beehive](https://www.google.com/maps/place/The%20Beehive+Cheltenham/)
+[Skip lunch and order cakes from @cakeoftheday](https://www.google.com/maps/place/Skip%20lunch%20and%20order%20cakes%20from%20%40cakeoftheday+Cheltenham/)
 <!-- lunch_item ends -->
 
 ---
