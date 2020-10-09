@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-[The Langton](https://www.google.com/maps/place/The%20Langton+Cheltenham/)
+[Gridiron](https://www.google.com/maps/place/Gridiron+Cheltenham/)
 <!-- lunch_item ends -->
 
 ---
