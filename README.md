@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-[Gridiron](https://www.google.com/maps/place/Gridiron+Cheltenham/)
+[Fresh Crust](https://www.google.com/maps/place/Fresh%20Crust+Cheltenham/)
 <!-- lunch_item ends -->
 
 ---
