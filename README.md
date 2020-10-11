@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-[Fresh Crust](https://www.google.com/maps/place/Fresh%20Crust+Cheltenham/)
+[The Cocunut Tree](https://www.google.com/maps/place/The%20Cocunut%20Tree+Cheltenham/)
 <!-- lunch_item ends -->
 
 ---
