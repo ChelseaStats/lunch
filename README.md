@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-[The Cocunut Tree](https://www.google.com/maps/place/The%20Cocunut%20Tree+Cheltenham/)
+[Holee Cow](https://www.google.com/maps/place/Holee%20Cow+Cheltenham/)
 <!-- lunch_item ends -->
 
 ---
