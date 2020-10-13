@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-[Holee Cow](https://www.google.com/maps/place/Holee%20Cow+Cheltenham/)
+[Zizzi](https://www.google.com/maps/place/Zizzi+Cheltenham/)
 <!-- lunch_item ends -->
 
 ---
