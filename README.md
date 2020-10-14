@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-[Zizzi](https://www.google.com/maps/place/Zizzi+Cheltenham/)
+[Brasserie Blanc](https://www.google.com/maps/place/Brasserie%20Blanc+Cheltenham/)
 <!-- lunch_item ends -->
 
 ---
