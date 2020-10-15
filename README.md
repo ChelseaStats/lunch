@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-[Brasserie Blanc](https://www.google.com/maps/place/Brasserie%20Blanc+Cheltenham/)
+[Bayshill](https://www.google.com/maps/place/Bayshill+Cheltenham/)
 <!-- lunch_item ends -->
 
 ---
