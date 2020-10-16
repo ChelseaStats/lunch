@@ -1,8 +1,4 @@
-# Where to go for lunch
-
-A website to help decide lunch choices in Cheltenham.
-
-Today's lunchtime venue is...
+# Today's lunchtime venue is...
 
 ---
 
