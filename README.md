@@ -7,7 +7,7 @@ Today's lunchtime venue is...
 ---
 
 <!-- lunch_item starts -->
-[Bayshill](https://www.google.com/maps/place/Bayshill+Cheltenham/)
+[Gridiron](https://www.google.com/maps/place/Gridiron+Cheltenham/)
 <!-- lunch_item ends -->
 
 ---
