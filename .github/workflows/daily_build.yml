@@ -33,7 +33,6 @@ jobs:
       run: |-
         python 'python/build.py'
         cat README.md
-        cat index.html
     - name: Commit and push if files have changed
       run: |-
         git diff
