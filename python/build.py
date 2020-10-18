@@ -33,7 +33,7 @@ with open('data.csv') as csvfile:
     random_row      = random.choice(list(reader))
     data_item_text  = random_row['text']
     url_safe_text   = urllib.parse.quote(data_item_text)
-    output_markdown = f"# [{data_item_text}](https://www.google.com/maps/place/{url_safe_text}+Cheltenham/)"
+    output_markdown = f"## [{data_item_text}](https://www.google.com/maps/place/{url_safe_text}+Cheltenham/)"
 
 if __name__ == "__main__":
     readme = root / "README.md"
