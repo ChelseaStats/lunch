@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-[Gridiron](https://www.google.com/maps/place/Gridiron+Cheltenham/)
+# [Burger Star](https://www.google.com/maps/place/Burger%20Star+Cheltenham/)
 <!-- lunch_item ends --> is today's lunch time venue.
 
 Follow [kutf](https://twitter.com/kutf) on Twitter for daily updates. To avoid disappointment please check availability and reservation requirements before attending
