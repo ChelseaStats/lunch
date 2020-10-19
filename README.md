@@ -1,6 +1,16 @@
 <!-- lunch_item starts -->
-## [Tesco](https://www.google.com/maps/place/Tesco+Cheltenham/)
-<!-- lunch_item ends --> is today's lunch time venue.
+## Falafel King
+
+Contact details:
+
+- [Location](https://www.google.com/maps/place/Falafel%20King+Cheltenham/)
+- - [string](https://www.cheltenhamfalafelking.co.uk)
+ - [string](https://www.facebook.com/cheltenhamfalafelking/)
+ - [string](@chelfalafelking)
+ 
+<!-- lunch_item ends -->
+
+is today's lunch time venue.
 
 Follow [kutf](https://twitter.com/kutf) on Twitter for daily updates. To avoid disappointment please check availability and reservation requirements before attending
 
