@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-# [Burger Star](https://www.google.com/maps/place/Burger%20Star+Cheltenham/)
+## [Tesco](https://www.google.com/maps/place/Tesco+Cheltenham/)
 <!-- lunch_item ends --> is today's lunch time venue.
 
 Follow [kutf](https://twitter.com/kutf) on Twitter for daily updates. To avoid disappointment please check availability and reservation requirements before attending
