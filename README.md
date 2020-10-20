@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## [Tesco](https://www.google.com/maps/place/Tesco+Cheltenham/)
+## [Giggling Squid](https://www.google.com/maps/place/Giggling%20Squid+Cheltenham/)
 <!-- lunch_item ends --> is today's lunch time venue.
 
 Follow [kutf](https://twitter.com/kutf) on Twitter for daily updates. To avoid disappointment please check availability and reservation requirements before attending
