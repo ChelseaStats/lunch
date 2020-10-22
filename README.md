@@ -1,6 +1,20 @@
+#
 <!-- lunch_item starts -->
-## [The Fire Station](https://www.google.com/maps/place/The%20Fire%20Station+Cheltenham/)
-<!-- lunch_item ends --> is today's lunch time venue.
+
+## Venue of the day is: Giggling Squid
+
+### About
+
+coming soon!
+
+### Contact details
+
+- [Map](https://www.google.com/maps/place/Giggling%20Squid+Cheltenham/)
+- [Url](https://www.gigglingsquid.com)
+- [Twitter](@GigglingSquid)
+
+<!-- lunch_item ends -->
+
 
 Follow [kutf](https://twitter.com/kutf) on Twitter for daily updates. To avoid disappointment please check availability and reservation requirements before attending
 
@@ -10,4 +24,5 @@ Please speak to @kutf on twitter to advertise on this page - advertising is limi
 
 You can also hijack the randomiser for a week for £50 - i.e. every day your venue will be selected.
 
-![Daily Build](https://github.com/MatBenfield/lunch.thechels.uk/workflows/Daily%20Build/badge.svg) ![Linter](https://github.com/MatBenfield/lunch.thechels.uk/workflows/Linter/badge.svg)
+![Daily Build](https://github.com/MatBenfield/lunch.thechels.uk/workflows/Daily%20Build/badge.svg)
+![Linter](https://github.com/MatBenfield/lunch.thechels.uk/workflows/Linter/badge.svg)
