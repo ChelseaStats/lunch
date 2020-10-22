@@ -1,5 +1,6 @@
 #
 <!-- lunch_item starts -->
+
 ## Venue of the day is: Giggling Squid
 
 ### About
@@ -13,6 +14,7 @@ coming soon!
 - [Twitter](@GigglingSquid)
 
 <!-- lunch_item ends -->
+
 
 Follow [kutf](https://twitter.com/kutf) on Twitter for daily updates. To avoid disappointment please check availability and reservation requirements before attending
 
