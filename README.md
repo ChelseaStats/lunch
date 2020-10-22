@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## [wagamama](https://www.google.com/maps/place/wagamama+Cheltenham/)
+## [The Fire Station](https://www.google.com/maps/place/The%20Fire%20Station+Cheltenham/)
 <!-- lunch_item ends --> is today's lunch time venue.
 
 Follow [kutf](https://twitter.com/kutf) on Twitter for daily updates. To avoid disappointment please check availability and reservation requirements before attending
