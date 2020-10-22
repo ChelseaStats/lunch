@@ -1,6 +1,6 @@
 #
 <!-- lunch_item starts -->
-## Venue of the day is: Primavera Ristorante
+## Venue of the day is: Giggling Squid
 
 ### About
 
@@ -8,8 +8,9 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Primavera%20Ristorante+Cheltenham/)
-- [Url](https://primaveraristorante.com)
+- [Map](https://www.google.com/maps/place/Giggling%20Squid+Cheltenham/)
+- [Url](https://www.gigglingsquid.com)
+- [Twitter](@GigglingSquid)
 
 <!-- lunch_item ends -->
 

@@ -2,10 +2,10 @@
 import os
 import pathlib
 import tweepy
-import urllib
 import json
 import helper
 import random
+from venue import venue
 
 # authentication
 auth = tweepy.OAuthHandler(os.getenv('c_key'), os.getenv('c_secret'))
@@ -13,19 +13,6 @@ auth.set_access_token(os.getenv('a_token'), os.getenv('a_secret'))
 api = tweepy.API(auth)
 error = False
 list_of_venues = []
-
-class venue:
-        def __init__(self, name, hijack, desc, url, facebook, twitter, instagram):
-                self.name = name
-                self.hijack = hijack
-                self.desc = desc or "coming soon!"
-                self.url = url or None
-                self.facebook = facebook or None
-                self.twitter = twitter or None
-                self.instagram = instagram or None
-                self.location = f"https://www.google.com/maps/place/{urllib.parse.quote(name)}+Cheltenham/"
-        def __repr__(self):
-            return repr(self.name, self.hijack, self.desc, self.url, self.facebook, self.twitter, self.instagram, self.location)
 
 # processing
 root = pathlib.Path(__file__).parent.parent.resolve()
@@ -66,4 +53,4 @@ if(error is False):
         else:
             tweet = f"Venue of the day in #Cheltenham is {chosen_venue.name}, see lunch.thechels.uk for more info #LunchBot #VofD"
         print(tweet)
-        #api.update_status(status = tweet)
+        api.update_status(status = tweet)
