@@ -1,187 +1,371 @@
 [
     {
        "Name":"Wolfies",
-       "Url":"https://www.wolfiesofcheltenham.co.uk"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://www.wolfiesofcheltenham.co.uk",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"Lime Tree",
-       "Url":"https://en-gb.facebook.com/Thelimetreecheltenham/"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"",
+       "Facebook":"https://en-gb.facebook.com/Thelimetreecheltenham/",
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"Munchies",
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"",
+       "Facebook":"",
+       "Instagram":"",
        "Twitter":"@queenscircus"
     },
     {
        "Name":"Bar and Wok",
-       "Url":"https://www.barandwok.com"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://www.barandwok.com",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"Burger Star",
-       "Url":"https://www.burgerstar.co.uk"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://www.burgerstar.co.uk",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"Farmhouse kitchen",
-       "Url":"https://en-gb.facebook.com/pages/category/Deli/Farmhouse-Deli-188715554487391/"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"",
+       "Facebook":"https://en-gb.facebook.com/pages/category/Deli/Farmhouse-Deli-188715554487391/",
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"Fresh Crust Pasty Shop",
-       "Url":"https://www.facebook.com/Fresh-Crust-The-pasty-shop-144353402924385/"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"",
+       "Facebook":"https://www.facebook.com/Fresh-Crust-The-pasty-shop-144353402924385/",
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"Papparito's",
-       "Url":"https://www.paparritos.com"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://www.paparritos.com",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"Charles takeaway",
-       "Url":"http://www.charlestakeaway.co.uk/Charles_Takeaway_Cheltenham/Home.html"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"http://www.charlestakeaway.co.uk/Charles_Takeaway_Cheltenham/Home.html",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"Clementine Cafe",
-       "Url":"https://theclementinecafe.co.uk"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://theclementinecafe.co.uk",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"Chelsea Brasserie",
-       "Twitter":"@ChelseaBrasseri",
-       "Url":"https://www.chelseabrasserie.com"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://www.chelseabrasserie.com",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":"@ChelseaBrasseri"
     },
     {
-       "Name":"cakeoftheday",
-       "Twitter":"@cakeoftheday",
-       "Url":"https://www.cake-of-the-day.co.uk"
+       "Name":"Cake of the Day",
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://www.cake-of-the-day.co.uk",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":"@cakeoftheday"
     },
     {
        "Name":"Simpson's Chippy",
-       "Twitter":"@simpsonschippy",
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"http://simpsonsfishandchips.com",
+       "Facebook":"",
        "Instagram":"https://www.instagram.com/simpsonsfishandchips",
-       "Url":"http://simpsonsfishandchips.com"
+       "Twitter":"@simpsonschippy"
     },
     {
        "Name":"The Coconut Tree",
-       "Twitter":"@CoconutTreeUK",
-       "Instagram":"https://www.instagram.com/thecoconuttreeuk/",
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://www.thecoconut-tree.com/cheltenham",
        "Facebook":"http://www.facebook.com/TheCoconutTreeCheltenham/",
-       "Url":"https://www.thecoconut-tree.com/cheltenham"
+       "Instagram":"https://www.instagram.com/thecoconuttreeuk/",
+       "Twitter":"@CoconutTreeUK"
     },
     {
        "Name":"Kibou",
-       "Url":"http://kibou.co.uk/Cheltenham/"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"http://kibou.co.uk/Cheltenham/",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"Wakame",
-       "Url":"http://www.wakamecheltenham.co.uk/cheltenham/"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"http://www.wakamecheltenham.co.uk/cheltenham/",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"Muse Brasserie",
-       "Url":"https://www.musebrasserie.com/"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://www.musebrasserie.com/",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"Petit Coco Bistro",
-       "Url":"https://petitcoco.co.uk"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://petitcoco.co.uk",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"Grill 49",
-       "Url":"http://thegrill49.co.uk/"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"http://thegrill49.co.uk/",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"Primavera Ristorante",
-       "Url":"https://primaveraristorante.com"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://primaveraristorante.com",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"The Tavern",
-       "Url":"https://www.thetaverncheltenham.com"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://www.thetaverncheltenham.com",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"The Vine",
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://www.thevinecheltenham.co.uk",
        "Facebook":"https://www.facebook.com/thevinecheltenham",
-       "Url":"https://www.thevinecheltenham.co.uk"
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"Chikenzo",
-       "Url":"https://www.chikenzo.co.uk"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://www.chikenzo.co.uk",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"The Bottle of Sauce",
-       "Url":"https://dodopubs.com/locations/the-bottle-of-sauce/"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://dodopubs.com/locations/the-bottle-of-sauce/",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"The BigFish",
-       "Url":"https://thebigfishhighst.co.uk"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://thebigfishhighst.co.uk",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"Big Fish Bath Road",
-       "Url":"https://bathroadbigfish.co.uk"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://bathroadbigfish.co.uk",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"The Fire Station",
-       "Twitter":"@tfscheltenham",
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"http://thefirestationcheltenham.co.uk",
        "Facebook":"https://www.facebook.com/tfscheltenham/",
        "Instagram":"https://www.instagram.com/thefirestationcheltenham/",
-       "Url":"http://thefirestationcheltenham.co.uk"
+       "Twitter":"@tfscheltenham"
     },
     {
        "Name":"Morans",
-       "Twitter":"@MoransChelt",
-       "Url":"https://www.moranseatinghouse.co.uk"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://www.moranseatinghouse.co.uk",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":"@MoransChelt"
     },
     {
        "Name":"Ginger and Garlic",
-       "Url":"https://www.ginger-garlic.co.uk"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://www.ginger-garlic.co.uk",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"Gianni Ristorante",
-       "Url":"https://www.giannicheltenham.com"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://www.giannicheltenham.com",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"Thai Emerald",
-       "Url":"https://www.thai-emerald.co.uk/cheltenham-menus"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://www.thai-emerald.co.uk/cheltenham-menus",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"Giggling Squid",
-       "Twitter":"@GigglingSquid",
-       "Url":"https://www.gigglingsquid.com"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://www.gigglingsquid.com",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":"@GigglingSquid"
     },
     {
        "Name":"The Beehive",
-       "Url":"http://www.thebeehivemontpellier.com"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"http://www.thebeehivemontpellier.com",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"The Railway",
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://www.therailwaycheltenham.co.uk",
        "Facebook":"https://www.facebook.com/RailwayCheltenham",
-       "Url":"https://www.therailwaycheltenham.co.uk"
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"The Swan",
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://www.theswancheltenham.co.uk",
        "Facebook":"https://www.facebook.com/theswancheltenham/",
-       "Url":"https://www.theswancheltenham.co.uk"
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"Holee Cow",
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://holeecowburgers.co.uk",
+       "Facebook":"",
        "Instagram":"https://www.instagram.com/holeecowburgers/",
-       "Url":"https://holeecowburgers.co.uk"
+       "Twitter":""
     },
     {
        "Name":"Go Peri",
-       "Url":"https://cheltenham-goperionline.com"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://cheltenham-goperionline.com",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"Lumiere",
-       "Instagram":"https://www.instagram.com/lumiere_kitchen/",
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://www.lumiere.cc",
        "Facebook":"https://www.facebook.com/lumiererestaurant",
-       "Url":"https://www.lumiere.cc"
+       "Instagram":"https://www.instagram.com/lumiere_kitchen/",
+       "Twitter":""
     },
     {
        "Name":"Prithvi",
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://prithvirestaurant.com",
        "Facebook":"https://www.facebook.com/Prithvirestaurant/",
-       "Url":"https://prithvirestaurant.com"
+       "Instagram":"",
+       "Twitter":""
     },
     {
        "Name":"Falafel King",
-       "Twitter":"@chelfalafelking",
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://www.cheltenhamfalafelking.co.uk",
        "Facebook":"https://www.facebook.com/cheltenhamfalafelking/",
-       "Url":"https://www.cheltenhamfalafelking.co.uk"
+       "Instagram":"",
+       "Twitter":"@chelfalafelking"
     },
     {
        "Name":"The Langton",
-       "Url":"https://www.thelangton.co.uk"
+       "Desc":"",
+       "Hijack":"false",
+       "Url":"https://www.thelangton.co.uk",
+       "Facebook":"",
+       "Instagram":"",
+       "Twitter":""
     }
  ]

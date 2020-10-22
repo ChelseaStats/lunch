@@ -25,4 +25,4 @@ def pprint(string):
 
 
 def get_social_list(item, string):
-    return f"- [string]({item.get(string)})\n" if not (item.get(string) is None) else ""
+    return f"- [{string}]({item})\n" if not (item is None) else ""
