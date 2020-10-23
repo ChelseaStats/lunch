@@ -1,7 +1,6 @@
 #
 <!-- lunch_item starts -->
-
-## Venue of the day is: Giggling Squid
+## Venue of the day is: Thai Emerald
 
 ### About
 
@@ -9,9 +8,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Giggling%20Squid+Cheltenham/)
-- [Url](https://www.gigglingsquid.com)
-- [Twitter](@GigglingSquid)
+- [Map](https://www.google.com/maps/place/Thai%20Emerald+Cheltenham/)
+- [Url](https://www.thai-emerald.co.uk/cheltenham-menus)
 
 <!-- lunch_item ends -->
 
