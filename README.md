@@ -1,6 +1,6 @@
 #
 <!-- lunch_item starts -->
-## Venue of the day is: Thai Emerald
+## Venue of the day is: Muse Brasserie
 
 ### About
 
@@ -8,8 +8,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Thai%20Emerald+Cheltenham/)
-- [Url](https://www.thai-emerald.co.uk/cheltenham-menus)
+- [Map](https://www.google.com/maps/place/Muse%20Brasserie+Cheltenham/)
+- [Url](https://www.musebrasserie.com/)
 
 <!-- lunch_item ends -->
 
