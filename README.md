@@ -1,6 +1,6 @@
 #
 <!-- lunch_item starts -->
-## Venue of the day is: Muse Brasserie
+## Venue of the day is: Cake of the Day
 
 ### About
 
@@ -8,8 +8,9 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Muse%20Brasserie+Cheltenham/)
-- [Url](https://www.musebrasserie.com/)
+- [Map](https://www.google.com/maps/place/Cake%20of%20the%20Day+Cheltenham/)
+- [Url](https://www.cake-of-the-day.co.uk)
+- [Twitter](@cakeoftheday)
 
 <!-- lunch_item ends -->
 
