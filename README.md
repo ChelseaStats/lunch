@@ -1,6 +1,6 @@
 #
 <!-- lunch_item starts -->
-## Venue of the day is: Cake of the Day
+## Venue of the day is: Chelsea Brasserie
 
 ### About
 
@@ -8,9 +8,9 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Cake%20of%20the%20Day+Cheltenham/)
-- [Url](https://www.cake-of-the-day.co.uk)
-- [Twitter](@cakeoftheday)
+- [Map](https://www.google.com/maps/place/Chelsea%20Brasserie+Cheltenham/)
+- [Url](https://www.chelseabrasserie.com)
+- [Twitter](@ChelseaBrasseri)
 
 <!-- lunch_item ends -->
 
