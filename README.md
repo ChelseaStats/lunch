@@ -1,6 +1,6 @@
 #
 <!-- lunch_item starts -->
-## Venue of the day is: Chelsea Brasserie
+## Venue of the day is: Burger Star
 
 ### About
 
@@ -8,9 +8,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Chelsea%20Brasserie+Cheltenham/)
-- [Url](https://www.chelseabrasserie.com)
-- [Twitter](@ChelseaBrasseri)
+- [Map](https://www.google.com/maps/place/Burger%20Star+Cheltenham/)
+- [Url](https://www.burgerstar.co.uk)
 
 <!-- lunch_item ends -->
 
