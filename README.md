@@ -1,6 +1,6 @@
 #
 <!-- lunch_item starts -->
-## Venue of the day is: The Swan
+## Venue of the day is: Wakame
 
 ### About
 
@@ -8,9 +8,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/The%20Swan+Cheltenham/)
-- [Url](https://www.theswancheltenham.co.uk)
-- [Facebook](https://www.facebook.com/theswancheltenham/)
+- [Map](https://www.google.com/maps/place/Wakame+Cheltenham/)
+- [Url](http://www.wakamecheltenham.co.uk/cheltenham/)
 
 <!-- lunch_item ends -->
 
