@@ -1,6 +1,6 @@
 #
 <!-- lunch_item starts -->
-## Venue of the day is: Wakame
+## Venue of the day is: Fresh Crust Pasty Shop
 
 ### About
 
@@ -8,8 +8,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Wakame+Cheltenham/)
-- [Url](http://www.wakamecheltenham.co.uk/cheltenham/)
+- [Map](https://www.google.com/maps/place/Fresh%20Crust%20Pasty%20Shop+Cheltenham/)
+- [Facebook](https://www.facebook.com/Fresh-Crust-The-pasty-shop-144353402924385/)
 
 <!-- lunch_item ends -->
 
