@@ -1,6 +1,6 @@
 #
 <!-- lunch_item starts -->
-## Venue of the day is: Fresh Crust Pasty Shop
+## Venue of the day is: Burger Star
 
 ### About
 
@@ -8,8 +8,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Fresh%20Crust%20Pasty%20Shop+Cheltenham/)
-- [Facebook](https://www.facebook.com/Fresh-Crust-The-pasty-shop-144353402924385/)
+- [Map](https://www.google.com/maps/place/Burger%20Star+Cheltenham/)
+- [Url](https://www.burgerstar.co.uk)
 
 <!-- lunch_item ends -->
 
