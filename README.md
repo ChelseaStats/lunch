@@ -1,6 +1,6 @@
 #
 <!-- lunch_item starts -->
-## Venue of the day is: Go Peri
+## Venue of the day is: The Bottle of Sauce
 
 ### About
 
@@ -8,8 +8,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Go%20Peri+Cheltenham/)
-- [Url](https://cheltenham-goperionline.com)
+- [Map](https://www.google.com/maps/place/The%20Bottle%20of%20Sauce+Cheltenham/)
+- [Url](https://dodopubs.com/locations/the-bottle-of-sauce/)
 
 <!-- lunch_item ends -->
 
