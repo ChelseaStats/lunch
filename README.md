@@ -1,6 +1,6 @@
 #
 <!-- lunch_item starts -->
-## Venue of the day is: The Bottle of Sauce
+## Venue of the day is: The Railway
 
 ### About
 
@@ -8,8 +8,9 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/The%20Bottle%20of%20Sauce+Cheltenham/)
-- [Url](https://dodopubs.com/locations/the-bottle-of-sauce/)
+- [Map](https://www.google.com/maps/place/The%20Railway+Cheltenham/)
+- [Url](https://www.therailwaycheltenham.co.uk)
+- [Facebook](https://www.facebook.com/RailwayCheltenham)
 
 <!-- lunch_item ends -->
 
