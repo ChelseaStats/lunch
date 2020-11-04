@@ -1,6 +1,6 @@
 #
 <!-- lunch_item starts -->
-## Venue of the day is: The Railway
+## Venue of the day is: Go Peri
 
 ### About
 
@@ -8,9 +8,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/The%20Railway+Cheltenham/)
-- [Url](https://www.therailwaycheltenham.co.uk)
-- [Facebook](https://www.facebook.com/RailwayCheltenham)
+- [Map](https://www.google.com/maps/place/Go%20Peri+Cheltenham/)
+- [Url](https://cheltenham-goperionline.com)
 
 <!-- lunch_item ends -->
 
