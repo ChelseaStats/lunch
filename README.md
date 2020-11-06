@@ -1,6 +1,6 @@
 #
 <!-- lunch_item starts -->
-## Venue of the day is: Falafel King
+## Venue of the day is: The Vine
 
 ### About
 
@@ -8,10 +8,9 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Falafel%20King+Cheltenham/)
-- [Url](https://www.cheltenhamfalafelking.co.uk)
-- [Twitter](@chelfalafelking)
-- [Facebook](https://www.facebook.com/cheltenhamfalafelking/)
+- [Map](https://www.google.com/maps/place/The%20Vine+Cheltenham/)
+- [Url](https://www.thevinecheltenham.co.uk)
+- [Facebook](https://www.facebook.com/thevinecheltenham)
 
 <!-- lunch_item ends -->
 
