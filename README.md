@@ -1,6 +1,6 @@
 #
 <!-- lunch_item starts -->
-## Venue of the day is: The Vine
+## Venue of the day is: Burger Star
 
 ### About
 
@@ -8,9 +8,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/The%20Vine+Cheltenham/)
-- [Url](https://www.thevinecheltenham.co.uk)
-- [Facebook](https://www.facebook.com/thevinecheltenham)
+- [Map](https://www.google.com/maps/place/Burger%20Star+Cheltenham/)
+- [Url](https://www.burgerstar.co.uk)
 
 <!-- lunch_item ends -->
 
