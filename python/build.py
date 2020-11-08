@@ -49,8 +49,8 @@ if(error is False):
         my_markdown = helper.replace_chunk(readme_contents, "lunch_item", output_markdown)
         readme.open("w").write(my_markdown)
         if(chosen_venue.twitter):
-            tweet = f"Venue of the day in #Cheltenham is {chosen_venue.name}, see lunch.thechels.uk for more info {chosen_venue.twitter} #LunchBot #VofD"
+            tweet = f"Venue of the day in #Cheltenham is {chosen_venue.name}, see cheltenham-lunch.thechels.uk for more info {chosen_venue.twitter} #LunchBot #VofD"
         else:
-            tweet = f"Venue of the day in #Cheltenham is {chosen_venue.name}, see lunch.thechels.uk for more info #LunchBot #VofD"
+            tweet = f"Venue of the day in #Cheltenham is {chosen_venue.name}, see cheltenham-lunch.thechels.uk for more info #LunchBot #VofD"
         print(tweet)
         api.update_status(status = tweet)
