@@ -1,6 +1,6 @@
 #
 <!-- lunch_item starts -->
-## Venue of the day is: Petit Coco Bistro
+## Venue of the day is: Charles takeaway
 
 ### About
 
@@ -8,8 +8,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Petit%20Coco%20Bistro+Cheltenham/)
-- [Url](https://petitcoco.co.uk)
+- [Map](https://www.google.com/maps/place/Charles%20takeaway+Cheltenham/)
+- [Url](http://www.charlestakeaway.co.uk/Charles_Takeaway_Cheltenham/Home.html)
 
 <!-- lunch_item ends -->
 
