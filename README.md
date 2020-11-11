@@ -1,4 +1,3 @@
-#
 <!-- lunch_item starts -->
 ## Venue of the day is: Papparito's
 
