@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Farmhouse kitchen
+## Venue of the day is: Holee Cow
 
 ### About
 
@@ -7,8 +7,9 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Farmhouse%20kitchen+Cheltenham/)
-- [Facebook](https://en-gb.facebook.com/pages/category/Deli/Farmhouse-Deli-188715554487391/)
+- [Map](https://www.google.com/maps/place/Holee%20Cow+Cheltenham/)
+- [Url](https://holeecowburgers.co.uk)
+- [Instagram](https://www.instagram.com/holeecowburgers/)
 
 <!-- lunch_item ends -->
 
