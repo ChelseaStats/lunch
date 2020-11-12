@@ -21,5 +21,5 @@ Please speak to @kutf on twitter to advertise on this page - advertising is limi
 
 You can also hijack the randomiser for a week for £50 - i.e. every day your venue will be selected.
 
-![Daily Build](https://github.com/MatBenfield/lunch.thechels.uk/workflows/Daily%20Build/badge.svg)
+![Scheduled Build](https://github.com/Cheltenham-Open-Data/lunches/workflows/Scheduled%20Build/badge.svg)
 ![Linter](https://github.com/MatBenfield/lunch.thechels.uk/workflows/Linter/badge.svg)
