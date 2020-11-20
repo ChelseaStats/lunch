@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Petit Coco Bistro
+## Venue of the day is: Chelsea Brasserie
 
 ### About
 
@@ -7,8 +7,9 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Petit%20Coco%20Bistro+Cheltenham/)
-- [Url](https://petitcoco.co.uk)
+- [Map](https://www.google.com/maps/place/Chelsea%20Brasserie+Cheltenham/)
+- [Url](https://www.chelseabrasserie.com)
+- [Twitter](@ChelseaBrasseri)
 
 <!-- lunch_item ends -->
 
