@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Wakame
+## Venue of the day is: Simpson's Chippy
 
 ### About
 
@@ -7,8 +7,10 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Wakame+Cheltenham/)
-- [Url](http://www.wakamecheltenham.co.uk/cheltenham/)
+- [Map](https://www.google.com/maps/place/Simpson%27s%20Chippy+Cheltenham/)
+- [Url](http://simpsonsfishandchips.com)
+- [Twitter](@simpsonschippy)
+- [Instagram](https://www.instagram.com/simpsonsfishandchips)
 
 <!-- lunch_item ends -->
 
