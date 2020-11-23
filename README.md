@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Simpson's Chippy
+## Venue of the day is: Ginger and Garlic
 
 ### About
 
@@ -7,10 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Simpson%27s%20Chippy+Cheltenham/)
-- [Url](http://simpsonsfishandchips.com)
-- [Twitter](@simpsonschippy)
-- [Instagram](https://www.instagram.com/simpsonsfishandchips)
+- [Map](https://www.google.com/maps/place/Ginger%20and%20Garlic+Cheltenham/)
+- [Url](https://www.ginger-garlic.co.uk)
 
 <!-- lunch_item ends -->
 
