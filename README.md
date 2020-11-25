@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: The Bottle of Sauce
+## Venue of the day is: Chelsea Brasserie
 
 ### About
 
@@ -7,8 +7,9 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/The%20Bottle%20of%20Sauce+Cheltenham/)
-- [Url](https://dodopubs.com/locations/the-bottle-of-sauce/)
+- [Map](https://www.google.com/maps/place/Chelsea%20Brasserie+Cheltenham/)
+- [Url](https://www.chelseabrasserie.com)
+- [Twitter](@ChelseaBrasseri)
 
 <!-- lunch_item ends -->
 
