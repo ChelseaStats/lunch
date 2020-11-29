@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Big Fish Bath Road
+## Venue of the day is: Munchies
 
 ### About
 
@@ -7,8 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Big%20Fish%20Bath%20Road+Cheltenham/)
-- [Url](https://bathroadbigfish.co.uk)
+- [Map](https://www.google.com/maps/place/Munchies+Cheltenham/)
+- [Twitter](@queenscircus)
 
 <!-- lunch_item ends -->
 
