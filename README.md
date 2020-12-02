@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Kibou
+## Venue of the day is: The Langton
 
 ### About
 
@@ -7,8 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Kibou+Cheltenham/)
-- [Url](http://kibou.co.uk/Cheltenham/)
+- [Map](https://www.google.com/maps/place/The%20Langton+Cheltenham/)
+- [Url](https://www.thelangton.co.uk)
 
 <!-- lunch_item ends -->
 
