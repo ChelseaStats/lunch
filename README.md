@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: The BigFish
+## Venue of the day is: Burger Star
 
 ### About
 
@@ -7,8 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/The%20BigFish+Cheltenham/)
-- [Url](https://thebigfishhighst.co.uk)
+- [Map](https://www.google.com/maps/place/Burger%20Star+Cheltenham/)
+- [Url](https://www.burgerstar.co.uk)
 
 <!-- lunch_item ends -->
 
