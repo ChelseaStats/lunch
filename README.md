@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Burger Star
+## Venue of the day is: Morans
 
 ### About
 
@@ -7,8 +7,9 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Burger%20Star+Cheltenham/)
-- [Url](https://www.burgerstar.co.uk)
+- [Map](https://www.google.com/maps/place/Morans+Cheltenham/)
+- [Url](https://www.moranseatinghouse.co.uk)
+- [Twitter](@MoransChelt)
 
 <!-- lunch_item ends -->
 
