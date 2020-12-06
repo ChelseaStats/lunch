@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Morans
+## Venue of the day is: Bar and Wok
 
 ### About
 
@@ -7,9 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Morans+Cheltenham/)
-- [Url](https://www.moranseatinghouse.co.uk)
-- [Twitter](@MoransChelt)
+- [Map](https://www.google.com/maps/place/Bar%20and%20Wok+Cheltenham/)
+- [Url](https://www.barandwok.com)
 
 <!-- lunch_item ends -->
 
