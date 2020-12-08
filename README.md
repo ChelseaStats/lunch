@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Wakame
+## Venue of the day is: Go Peri
 
 ### About
 
@@ -7,8 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Wakame+Cheltenham/)
-- [Url](http://www.wakamecheltenham.co.uk/cheltenham/)
+- [Map](https://www.google.com/maps/place/Go%20Peri+Cheltenham/)
+- [Url](https://cheltenham-goperionline.com)
 
 <!-- lunch_item ends -->
 
