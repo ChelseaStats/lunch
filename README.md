@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Go Peri
+## Venue of the day is: Prithvi
 
 ### About
 
@@ -7,8 +7,9 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Go%20Peri+Cheltenham/)
-- [Url](https://cheltenham-goperionline.com)
+- [Map](https://www.google.com/maps/place/Prithvi+Cheltenham/)
+- [Url](https://prithvirestaurant.com)
+- [Facebook](https://www.facebook.com/Prithvirestaurant/)
 
 <!-- lunch_item ends -->
 
