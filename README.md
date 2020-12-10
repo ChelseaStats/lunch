@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Prithvi
+## Venue of the day is: Holee Cow
 
 ### About
 
@@ -7,9 +7,9 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Prithvi+Cheltenham/)
-- [Url](https://prithvirestaurant.com)
-- [Facebook](https://www.facebook.com/Prithvirestaurant/)
+- [Map](https://www.google.com/maps/place/Holee%20Cow+Cheltenham/)
+- [Url](https://holeecowburgers.co.uk)
+- [Instagram](https://www.instagram.com/holeecowburgers/)
 
 <!-- lunch_item ends -->
 
