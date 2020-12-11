@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Holee Cow
+## Venue of the day is: Muse Brasserie
 
 ### About
 
@@ -7,9 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Holee%20Cow+Cheltenham/)
-- [Url](https://holeecowburgers.co.uk)
-- [Instagram](https://www.instagram.com/holeecowburgers/)
+- [Map](https://www.google.com/maps/place/Muse%20Brasserie+Cheltenham/)
+- [Url](https://www.musebrasserie.com/)
 
 <!-- lunch_item ends -->
 
