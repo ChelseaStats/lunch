@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Wolfies
+## Venue of the day is: The Fire Station
 
 ### About
 
@@ -7,8 +7,11 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Wolfies+Cheltenham/)
-- [Url](https://www.wolfiesofcheltenham.co.uk)
+- [Map](https://www.google.com/maps/place/The%20Fire%20Station+Cheltenham/)
+- [Url](http://thefirestationcheltenham.co.uk)
+- [Twitter](@tfscheltenham)
+- [Facebook](https://www.facebook.com/tfscheltenham/)
+- [Instagram](https://www.instagram.com/thefirestationcheltenham/)
 
 <!-- lunch_item ends -->
 
