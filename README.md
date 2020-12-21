@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: The Fire Station
+## Venue of the day is: Farmhouse kitchen
 
 ### About
 
@@ -7,11 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/The%20Fire%20Station+Cheltenham/)
-- [Url](http://thefirestationcheltenham.co.uk)
-- [Twitter](@tfscheltenham)
-- [Facebook](https://www.facebook.com/tfscheltenham/)
-- [Instagram](https://www.instagram.com/thefirestationcheltenham/)
+- [Map](https://www.google.com/maps/place/Farmhouse%20kitchen+Cheltenham/)
+- [Facebook](https://en-gb.facebook.com/pages/category/Deli/Farmhouse-Deli-188715554487391/)
 
 <!-- lunch_item ends -->
 
