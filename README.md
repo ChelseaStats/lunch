@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Simpson's Chippy
+## Venue of the day is: Petit Coco Bistro
 
 ### About
 
@@ -7,10 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Simpson%27s%20Chippy+Cheltenham/)
-- [Url](http://simpsonsfishandchips.com)
-- [Twitter](@simpsonschippy)
-- [Instagram](https://www.instagram.com/simpsonsfishandchips)
+- [Map](https://www.google.com/maps/place/Petit%20Coco%20Bistro+Cheltenham/)
+- [Url](https://petitcoco.co.uk)
 
 <!-- lunch_item ends -->
 
