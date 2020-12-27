@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Petit Coco Bistro
+## Venue of the day is: Wolfies
 
 ### About
 
@@ -7,8 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Petit%20Coco%20Bistro+Cheltenham/)
-- [Url](https://petitcoco.co.uk)
+- [Map](https://www.google.com/maps/place/Wolfies+Cheltenham/)
+- [Url](https://www.wolfiesofcheltenham.co.uk)
 
 <!-- lunch_item ends -->
 
