@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Wolfies
+## Venue of the day is: Falafel King
 
 ### About
 
@@ -7,8 +7,10 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Wolfies+Cheltenham/)
-- [Url](https://www.wolfiesofcheltenham.co.uk)
+- [Map](https://www.google.com/maps/place/Falafel%20King+Cheltenham/)
+- [Url](https://www.cheltenhamfalafelking.co.uk)
+- [Twitter](@chelfalafelking)
+- [Facebook](https://www.facebook.com/cheltenhamfalafelking/)
 
 <!-- lunch_item ends -->
 
