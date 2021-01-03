@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: The Beehive
+## Venue of the day is: Wakame
 
 ### About
 
@@ -7,8 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/The%20Beehive+Cheltenham/)
-- [Url](http://www.thebeehivemontpellier.com)
+- [Map](https://www.google.com/maps/place/Wakame+Cheltenham/)
+- [Url](http://www.wakamecheltenham.co.uk/cheltenham/)
 
 <!-- lunch_item ends -->
 
