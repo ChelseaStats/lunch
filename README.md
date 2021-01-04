@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Wakame
+## Venue of the day is: The Coconut Tree
 
 ### About
 
@@ -7,8 +7,11 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Wakame+Cheltenham/)
-- [Url](http://www.wakamecheltenham.co.uk/cheltenham/)
+- [Map](https://www.google.com/maps/place/The%20Coconut%20Tree+Cheltenham/)
+- [Url](https://www.thecoconut-tree.com/cheltenham)
+- [Twitter](@CoconutTreeUK)
+- [Facebook](http://www.facebook.com/TheCoconutTreeCheltenham/)
+- [Instagram](https://www.instagram.com/thecoconuttreeuk/)
 
 <!-- lunch_item ends -->
 
