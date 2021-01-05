@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: The Coconut Tree
+## Venue of the day is: Papparito's
 
 ### About
 
@@ -7,11 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/The%20Coconut%20Tree+Cheltenham/)
-- [Url](https://www.thecoconut-tree.com/cheltenham)
-- [Twitter](@CoconutTreeUK)
-- [Facebook](http://www.facebook.com/TheCoconutTreeCheltenham/)
-- [Instagram](https://www.instagram.com/thecoconuttreeuk/)
+- [Map](https://www.google.com/maps/place/Papparito%27s+Cheltenham/)
+- [Url](https://www.paparritos.com)
 
 <!-- lunch_item ends -->
 
