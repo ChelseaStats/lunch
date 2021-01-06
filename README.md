@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Papparito's
+## Venue of the day is: Petit Coco Bistro
 
 ### About
 
@@ -7,8 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Papparito%27s+Cheltenham/)
-- [Url](https://www.paparritos.com)
+- [Map](https://www.google.com/maps/place/Petit%20Coco%20Bistro+Cheltenham/)
+- [Url](https://petitcoco.co.uk)
 
 <!-- lunch_item ends -->
 
