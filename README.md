@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: The Langton
+## Venue of the day is: The BigFish
 
 ### About
 
@@ -7,8 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/The%20Langton+Cheltenham/)
-- [Url](https://www.thelangton.co.uk)
+- [Map](https://www.google.com/maps/place/The%20BigFish+Cheltenham/)
+- [Url](https://thebigfishhighst.co.uk)
 
 <!-- lunch_item ends -->
 
