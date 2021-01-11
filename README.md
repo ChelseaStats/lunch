@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Ginger and Garlic
+## Venue of the day is: Kibou
 
 ### About
 
@@ -7,8 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Ginger%20and%20Garlic+Cheltenham/)
-- [Url](https://www.ginger-garlic.co.uk)
+- [Map](https://www.google.com/maps/place/Kibou+Cheltenham/)
+- [Url](http://kibou.co.uk/Cheltenham/)
 
 <!-- lunch_item ends -->
 
