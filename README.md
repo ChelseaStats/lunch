@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Grill 49
+## Venue of the day is: The Bottle of Sauce
 
 ### About
 
@@ -7,8 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Grill%2049+Cheltenham/)
-- [Url](http://thegrill49.co.uk/)
+- [Map](https://www.google.com/maps/place/The%20Bottle%20of%20Sauce+Cheltenham/)
+- [Url](https://dodopubs.com/locations/the-bottle-of-sauce/)
 
 <!-- lunch_item ends -->
 
