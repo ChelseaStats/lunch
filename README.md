@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Fresh Crust Pasty Shop
+## Venue of the day is: Lime Tree
 
 ### About
 
@@ -7,8 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Fresh%20Crust%20Pasty%20Shop+Cheltenham/)
-- [Facebook](https://www.facebook.com/Fresh-Crust-The-pasty-shop-144353402924385/)
+- [Map](https://www.google.com/maps/place/Lime%20Tree+Cheltenham/)
+- [Facebook](https://en-gb.facebook.com/Thelimetreecheltenham/)
 
 <!-- lunch_item ends -->
 
