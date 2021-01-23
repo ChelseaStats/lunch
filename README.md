@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Lime Tree
+## Venue of the day is: Lumiere
 
 ### About
 
@@ -7,8 +7,10 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Lime%20Tree+Cheltenham/)
-- [Facebook](https://en-gb.facebook.com/Thelimetreecheltenham/)
+- [Map](https://www.google.com/maps/place/Lumiere+Cheltenham/)
+- [Url](https://www.lumiere.cc)
+- [Facebook](https://www.facebook.com/lumiererestaurant)
+- [Instagram](https://www.instagram.com/lumiere_kitchen/)
 
 <!-- lunch_item ends -->
 
