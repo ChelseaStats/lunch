@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Lumiere
+## Venue of the day is: Primavera Ristorante
 
 ### About
 
@@ -7,10 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Lumiere+Cheltenham/)
-- [Url](https://www.lumiere.cc)
-- [Facebook](https://www.facebook.com/lumiererestaurant)
-- [Instagram](https://www.instagram.com/lumiere_kitchen/)
+- [Map](https://www.google.com/maps/place/Primavera%20Ristorante+Cheltenham/)
+- [Url](https://primaveraristorante.com)
 
 <!-- lunch_item ends -->
 
