@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Farmhouse kitchen
+## Venue of the day is: Chikenzo
 
 ### About
 
@@ -7,8 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Farmhouse%20kitchen+Cheltenham/)
-- [Facebook](https://en-gb.facebook.com/pages/category/Deli/Farmhouse-Deli-188715554487391/)
+- [Map](https://www.google.com/maps/place/Chikenzo+Cheltenham/)
+- [Url](https://www.chikenzo.co.uk)
 
 <!-- lunch_item ends -->
 
