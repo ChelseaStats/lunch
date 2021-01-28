@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Falafel King
+## Venue of the day is: Chelsea Brasserie
 
 ### About
 
@@ -7,10 +7,9 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Falafel%20King+Cheltenham/)
-- [Url](https://www.cheltenhamfalafelking.co.uk)
-- [Twitter](@chelfalafelking)
-- [Facebook](https://www.facebook.com/cheltenhamfalafelking/)
+- [Map](https://www.google.com/maps/place/Chelsea%20Brasserie+Cheltenham/)
+- [Url](https://www.chelseabrasserie.com)
+- [Twitter](@ChelseaBrasseri)
 
 <!-- lunch_item ends -->
 
