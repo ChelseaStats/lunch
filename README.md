@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: The Bottle of Sauce
+## Venue of the day is: Farmhouse kitchen
 
 ### About
 
@@ -7,8 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/The%20Bottle%20of%20Sauce+Cheltenham/)
-- [Url](https://dodopubs.com/locations/the-bottle-of-sauce/)
+- [Map](https://www.google.com/maps/place/Farmhouse%20kitchen+Cheltenham/)
+- [Facebook](https://en-gb.facebook.com/pages/category/Deli/Farmhouse-Deli-188715554487391/)
 
 <!-- lunch_item ends -->
 
