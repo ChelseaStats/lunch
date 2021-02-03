@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: The Bottle of Sauce
+## Venue of the day is: The Swan
 
 ### About
 
@@ -7,8 +7,9 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/The%20Bottle%20of%20Sauce+Cheltenham/)
-- [Url](https://dodopubs.com/locations/the-bottle-of-sauce/)
+- [Map](https://www.google.com/maps/place/The%20Swan+Cheltenham/)
+- [Url](https://www.theswancheltenham.co.uk)
+- [Facebook](https://www.facebook.com/theswancheltenham/)
 
 <!-- lunch_item ends -->
 
