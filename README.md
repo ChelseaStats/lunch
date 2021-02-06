@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Primavera Ristorante
+## Venue of the day is: Muse Brasserie
 
 ### About
 
@@ -7,8 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Primavera%20Ristorante+Cheltenham/)
-- [Url](https://primaveraristorante.com)
+- [Map](https://www.google.com/maps/place/Muse%20Brasserie+Cheltenham/)
+- [Url](https://www.musebrasserie.com/)
 
 <!-- lunch_item ends -->
 
