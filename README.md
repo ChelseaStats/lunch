@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: The Swan
+## Venue of the day is: Simpson's Chippy
 
 ### About
 
@@ -7,9 +7,10 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/The%20Swan+Cheltenham/)
-- [Url](https://www.theswancheltenham.co.uk)
-- [Facebook](https://www.facebook.com/theswancheltenham/)
+- [Map](https://www.google.com/maps/place/Simpson%27s%20Chippy+Cheltenham/)
+- [Url](http://simpsonsfishandchips.com)
+- [Twitter](@simpsonschippy)
+- [Instagram](https://www.instagram.com/simpsonsfishandchips)
 
 <!-- lunch_item ends -->
 
