@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Simpson's Chippy
+## Venue of the day is: The Vine
 
 ### About
 
@@ -7,10 +7,9 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Simpson%27s%20Chippy+Cheltenham/)
-- [Url](http://simpsonsfishandchips.com)
-- [Twitter](@simpsonschippy)
-- [Instagram](https://www.instagram.com/simpsonsfishandchips)
+- [Map](https://www.google.com/maps/place/The%20Vine+Cheltenham/)
+- [Url](https://www.thevinecheltenham.co.uk)
+- [Facebook](https://www.facebook.com/thevinecheltenham)
 
 <!-- lunch_item ends -->
 
