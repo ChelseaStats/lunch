@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: The Beehive
+## Venue of the day is: Kibou
 
 ### About
 
@@ -7,8 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/The%20Beehive+Cheltenham/)
-- [Url](http://www.thebeehivemontpellier.com)
+- [Map](https://www.google.com/maps/place/Kibou+Cheltenham/)
+- [Url](http://kibou.co.uk/Cheltenham/)
 
 <!-- lunch_item ends -->
 
