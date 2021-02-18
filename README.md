@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Kibou
+## Venue of the day is: Chikenzo
 
 ### About
 
@@ -7,8 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Kibou+Cheltenham/)
-- [Url](http://kibou.co.uk/Cheltenham/)
+- [Map](https://www.google.com/maps/place/Chikenzo+Cheltenham/)
+- [Url](https://www.chikenzo.co.uk)
 
 <!-- lunch_item ends -->
 
