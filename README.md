@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Thai Emerald
+## Venue of the day is: Clementine Cafe
 
 ### About
 
@@ -7,8 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Thai%20Emerald+Cheltenham/)
-- [Url](https://www.thai-emerald.co.uk/cheltenham-menus)
+- [Map](https://www.google.com/maps/place/Clementine%20Cafe+Cheltenham/)
+- [Url](https://theclementinecafe.co.uk)
 
 <!-- lunch_item ends -->
 
