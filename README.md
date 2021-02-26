@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: The Beehive
+## Venue of the day is: Thai Emerald
 
 ### About
 
@@ -7,8 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/The%20Beehive+Cheltenham/)
-- [Url](http://www.thebeehivemontpellier.com)
+- [Map](https://www.google.com/maps/place/Thai%20Emerald+Cheltenham/)
+- [Url](https://www.thai-emerald.co.uk/cheltenham-menus)
 
 <!-- lunch_item ends -->
 
