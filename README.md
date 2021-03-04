@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Primavera Ristorante
+## Venue of the day is: The Vine
 
 ### About
 
@@ -7,8 +7,9 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Primavera%20Ristorante+Cheltenham/)
-- [Url](https://primaveraristorante.com)
+- [Map](https://www.google.com/maps/place/The%20Vine+Cheltenham/)
+- [Url](https://www.thevinecheltenham.co.uk)
+- [Facebook](https://www.facebook.com/thevinecheltenham)
 
 <!-- lunch_item ends -->
 
