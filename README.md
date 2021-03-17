@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Grill 49
+## Venue of the day is: Lime Tree
 
 ### About
 
@@ -7,8 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Grill%2049+Cheltenham/)
-- [Url](http://thegrill49.co.uk/)
+- [Map](https://www.google.com/maps/place/Lime%20Tree+Cheltenham/)
+- [Facebook](https://en-gb.facebook.com/Thelimetreecheltenham/)
 
 <!-- lunch_item ends -->
 
