@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Lime Tree
+## Venue of the day is: Kibou
 
 ### About
 
@@ -7,8 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Lime%20Tree+Cheltenham/)
-- [Facebook](https://en-gb.facebook.com/Thelimetreecheltenham/)
+- [Map](https://www.google.com/maps/place/Kibou+Cheltenham/)
+- [Url](http://kibou.co.uk/Cheltenham/)
 
 <!-- lunch_item ends -->
 
