@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Wakame
+## Venue of the day is: The Bottle of Sauce
 
 ### About
 
@@ -7,8 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Wakame+Cheltenham/)
-- [Url](http://www.wakamecheltenham.co.uk/cheltenham/)
+- [Map](https://www.google.com/maps/place/The%20Bottle%20of%20Sauce+Cheltenham/)
+- [Url](https://dodopubs.com/locations/the-bottle-of-sauce/)
 
 <!-- lunch_item ends -->
 
