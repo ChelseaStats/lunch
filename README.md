@@ -1,5 +1,5 @@
 <!-- lunch_item starts -->
-## Venue of the day is: Holee Cow
+## Venue of the day is: Papparito's
 
 ### About
 
@@ -7,9 +7,8 @@ coming soon!
 
 ### Contact details
 
-- [Map](https://www.google.com/maps/place/Holee%20Cow+Cheltenham/)
-- [Url](https://holeecowburgers.co.uk)
-- [Instagram](https://www.instagram.com/holeecowburgers/)
+- [Map](https://www.google.com/maps/place/Papparito%27s+Cheltenham/)
+- [Url](https://www.paparritos.com)
 
 <!-- lunch_item ends -->
 
