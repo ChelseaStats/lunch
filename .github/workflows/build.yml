@@ -1,8 +1,8 @@
 name: Scheduled Build
 on:
   workflow_dispatch:
-  schedule:
-    - cron:  '0 10 * * *'
+  # schedule:
+  #  - cron:  '0 0 1 0 0'
 
 jobs:
   build:
